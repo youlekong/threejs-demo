@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as o}from"./index-6313534e.js";const c="/threejs.github.io/assets/icon-9cd6ee21.png",n={},i={style:{display:"flex","justify-content":"center"}},r=o("img",{src:c,style:{"margin-top":"40vh",width:"168px",height:"128px"},alt:""},null,-1),_=[r];function a(d,l){return t(),s("div",i,_)}const p=e(n,[["render",a]]);export{p as default};

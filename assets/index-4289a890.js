@@ -1,0 +1,1 @@
+import{_ as c,o as n,c as d,a as e,b as t,w as a,u as _,d as s,R as o}from"./index-6313534e.js";const r={class:"c"},l={__name:"index",setup(p){return(u,f)=>(n(),d("div",r,[e("p",null,[t(_(o),{to:"/map"},{default:a(()=>[s("停车场地图")]),_:1})]),e("p",null,[t(_(o),{to:"/nav"},{default:a(()=>[s("模拟停车")]),_:1})])]))}},x=c(l,[["__scopeId","data-v-ffeb5390"]]);export{x as default};

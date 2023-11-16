@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as c}from"./index-b43d30f6.js";const o="/fabric.github.io/assets/icon-9cd6ee21.png",n={},i={style:{display:"flex","justify-content":"center"}},a=c("img",{src:o,style:{"margin-top":"40vh",width:"168px",height:"128px"},alt:""},null,-1),r=[a];function _(d,l){return t(),s("div",i,r)}const f=e(n,[["render",_]]);export{f as default};
